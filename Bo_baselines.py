@@ -226,19 +226,6 @@ bayopt(acq='PI',func='Levy',budget=400,pool_size=1000,batch_size=4,initial_size=
 bayopt(acq='UCB',func='Levy',budget=400,pool_size=1000,batch_size=4,initial_size=14,d=6)
 bayopt(acq='Gibbon',func='Levy',budget=400,pool_size=1000,batch_size=4,initial_size=14,d=6)
 
-# bayopt(acq='EI',func='Levy',budget=400,pool_size=1000,batch_size=20,initial_size=14,d=6)
-# bayopt(acq='PI',func='Levy',budget=400,pool_size=1000,batch_size=20,initial_size=14,d=6)
-# bayopt(acq='UCB',func='Levy',budget=400,pool_size=1000,batch_size=20,initial_size=14,d=6)
-# bayopt(acq='Gibbon',func='Levy',budget=400,pool_size=1000,batch_size=20,initial_size=14,d=6)
-
-# bayopt(acq='EI',func='Levy',budget=400,pool_size=1000,batch_size=50,initial_size=14,d=6)
-# bayopt(acq='PI',func='Levy',budget=400,pool_size=1000,batch_size=50,initial_size=14,d=6)
-# bayopt(acq='UCB',func='Levy',budget=400,pool_size=1000,batch_size=50,initial_size=14,d=6)
-#bayopt(acq='Gibbon',func='Levy',budget=400,pool_size=1000,batch_size=50,initial_size=14,d=6)
-
-
-
-# In[ ]:
 
 
 
